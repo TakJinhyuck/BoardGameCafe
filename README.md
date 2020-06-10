@@ -6,3 +6,6 @@
 * 개발 환경<br>
 사용언어 : Java Programming , JDBC , Oracle11g <br>
 Tool : Eclipse , Sql_Developer(Oracle)<br>
+
+1. 메인 화면<br>
+![image](https://user-images.githubusercontent.com/46931292/84247973-c38a4a00-ab43-11ea-84cc-094e31a04b2f.png)
