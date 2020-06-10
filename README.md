@@ -8,4 +8,8 @@
 Tool : Eclipse , Sql_Developer(Oracle)<br>
 
 1. 메인 화면<br>
-![image](https://user-images.githubusercontent.com/46931292/84247973-c38a4a00-ab43-11ea-84cc-094e31a04b2f.png)
+![image](https://user-images.githubusercontent.com/46931292/84247973-c38a4a00-ab43-11ea-84cc-094e31a04b2f.png)<br>
+
+2. 검색(인원으로)<br>
+![image](https://user-images.githubusercontent.com/46931292/84248296-35fb2a00-ab44-11ea-86eb-a3dc55b7bde5.png)
+
